@@ -1,0 +1,48 @@
+@charset "UTF-8";
+#navbar {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  width: 100%
+}
+
+#navbar a {
+  text-decoration: none;
+}
+
+#navbar li {
+  background-color: hsl(219, 16%, 64%);
+}
+
+header  nav  a {
+  color: rgb(240, 242, 249);
+}
+
+html {
+  background-color: rgb(167, 171, 177);
+}
+
+body {
+  background-color: hsl(0, 0%, 100%);
+}
+
+header {
+  background-color: hsl(218, 13%, 39%);
+}
+
+div, h2, p, img {
+  box-sizing: border-box;
+}
+
+footer {
+  text-decoration: none;
+  background-color: hsl(218, 13%, 39%);
+  color: rgb(240, 242, 249);
+}
+
+#top a {
+  color: rgb(58, 71, 110);
+}
+.foodSafety a {
+    color: rgb(43, 65, 126);
+}

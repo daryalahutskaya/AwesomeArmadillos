@@ -1,0 +1,21 @@
+@charset "UTF-8";
+html {
+  background-color: rgb(167, 171, 177);
+}
+
+body {
+  background-color: hsl(0, 0%, 100%);
+}
+
+header {
+  background-color: hsl(218, 13%, 39%);
+}
+header  nav  a {
+  color: rgb(240, 242, 249);
+}
+#recipes a {
+  color: hsl(224, 4%, 18%) ;
+}
+#top {
+color: rgb(194, 56, 159) ;
+}
